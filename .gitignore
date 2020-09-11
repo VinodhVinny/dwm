@@ -3,3 +3,7 @@
 
 # Ignore binary file
 dwm
+
+# Ignore all rej and orign files
+*.rej
+*.orig
