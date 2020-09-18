@@ -7,3 +7,6 @@ dwm
 # Ignore all rej and orign files
 *.rej
 *.orig
+
+# Ignore tags file
+tags
